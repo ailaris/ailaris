@@ -1,5 +1,10 @@
-# Hi there, I'm Adina (ailaris) 👋 
+<h1 align="center"> Hi there, I'm <a href="www.linkedin.com/in/ailarisintech"> Adina (ailaris)</a> 👋 </h1>
 
+<p align="center">
+  <a href=></a>
+
+
+### About:
 I'm a high school student and tech enthusiast from Kazakhstan 🇰🇿. 
 I love solving complex problems with code and building physical robots.
 

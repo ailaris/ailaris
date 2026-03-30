@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there, I'm <a href="www.linkedin.com/in/ailarisintech"> Adina (ailaris)</a> 👋 </h1>
 
 <p align="center">
-  <a href=></a>
+  <a href=https://raw.githubusercontent.com/ailaris/ailaris/main/cv (1).pdf></a>
 
 
 ### About:

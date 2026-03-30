@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Adina (ailaris) 👋 
 
-<!--
-**ailaris/ailaris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a high school student and tech enthusiast from Kazakhstan 🇰🇿. 
+I love solving complex problems with code and building physical robots.
 
-Here are some ideas to get you started:
+### 🛠 My Tech Stack:
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Fusion 360](https://img.shields.io/badge/Fusion_360-EA4335?style=for-the-badge&logo=autodesk&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I'm working on:
+- 🧠 **Algorithms:** Mastering Segment Trees and Graph Theory.
+- 🤖 **Robotics:** Lead Engineer for FTC team #28659 "Hot Wheels".
+- 📱 **Projects:** Exploring AI and mobile app development.
+
+---
+
+### 📊 GitHub Stats:
+![Adina's GitHub stats](https://github-readme-stats.vercel.app/api?username=ailaris&show_icons=true&theme=tokyonight)

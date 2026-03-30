@@ -6,10 +6,13 @@
   <a href="https://t.me/ai21o9s">Contact me</a>  
 </p>
 
+<hr />
 
-### About:
-I'm a high school student and tech enthusiast from Kazakhstan 🇰🇿. 
-I love solving complex problems with code and building physical robots.
+### About me:
+ 📚 high school student @ Bilim Innovation Lyceum '27 <br>
+ 💻 competitive programming | learning new languages, algorithms and data structures in C++ ✨ <br>
+ 🤖 robotics participant | FIRST Tech Challenge - team Hot Wheels (#28659) 🏎 <br>
+ 🚀 Join my IT community: <a href="https://t.me/zerohubspace">zerohub</a> <br>
 
 ### 🛠 My Tech Stack:
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)

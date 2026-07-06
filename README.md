@@ -14,9 +14,4 @@
  🤖 robotics participant | FIRST Tech Challenge - team Hot Wheels (#28659) 🏎 <br>
  🚀 Join my IT community: <a href="https://t.me/zerohubspace">zerohub</a> <br>
 
-### 🚀 What I'm working on:
-- 🧠 **Algorithms:** Mastering Segment Trees and Graph Theory.
-- 🤖 **Robotics:** Lead Engineer for FTC team #28659 "Hot Wheels".
-- 📱 **Projects:** Exploring AI and mobile app development.
-
 ---

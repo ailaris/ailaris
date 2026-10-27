@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="ligh-banner.png" alt="Adina Ibraimova — Computer Science, AI and Engineering" width="100%" />
+  <img src="light-banner.png" alt="Adina Ibraimova — Computer Science, AI and Engineering" width="100%" />
 </p>
 
 <h1 align="center">Adina Ibraimova</h1>

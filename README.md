@@ -1,11 +1,6 @@
-<!--
-After choosing the banner, add it as assets/profile-banner.png.
-Then uncomment:
-
 <p align="center">
-  <img src="assets/profile-banner.png" alt="Adina Ibraimova — Computer Science, AI and Engineering" width="100%" />
+  <img src="profile-banner.png" alt="Adina Ibraimova — Computer Science, AI and Engineering" width="100%" />
 </p>
--->
 
 <h1 align="center">Adina Ibraimova</h1>
 

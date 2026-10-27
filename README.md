@@ -24,8 +24,6 @@ Here are some things I've worked on.
 
 ### 01 / Astana air quality estimator
 
-
-
 A machine learning experiment on how well daily weather data can explain air quality changes in Astana.
 
 - Trained and compared Random Forest and linear regression models.
@@ -38,7 +36,7 @@ The experiment also explores missing data, feature selection, and why weather al
 
 ### 02 / Köz AI
 
-<img src="logo.jpg" alt="Köz logo img" width="100%" />
+<img src="logo.jpg" alt="Köz AI logo" width="200" />
 
 An EdTech project exploring the use of computer vision to understand classroom engagement.
 
@@ -48,7 +46,7 @@ I work on the project as a co-founder and AI/CV developer. I'm interested in how
 
 ### 03 / SynaptiX - Mind-to-Move
 
-<!-- Add the team's Launchpad banner as assets/synaptix-banner.png when available. -->
+<img src="Neural Link to Robotic Hand.png" alt="Banner MTM" width="300" />
 
 A collaborative BrainTech project for the NYAS Junior Academy Innovation Challenge.
 
@@ -57,8 +55,6 @@ Our team is exploring an EEG-based brain-computer interface concept in which mot
 *Research and concept development in progress.*
 
 ### 04 / FTC Robotics
-
-<!-- Add a real robot or team engineering photo as assets/ftc-robot.png when available. -->
 
 My robotics experience includes CAD design, robot building, driving, and engineering documentation with Team Hot Wheels.
 
@@ -72,7 +68,7 @@ My teams have received Connect, Inspire, and Think award recognition at regional
 
 I also enjoy algorithmic problem-solving, graphic design, and 3D modeling + printing. I'm still figuring out which part of computer science I want to specialize in, so for now I'm building things and learning across several areas.
 
-### Tools I've used
+### skill stack
 
 **Programming:** Python · C++ · C
 

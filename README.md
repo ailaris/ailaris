@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="profile-banner.png" alt="Adina Ibraimova — Computer Science, AI and Engineering" width="100%" />
+  <img src="ligh-banner.png" alt="Adina Ibraimova — Computer Science, AI and Engineering" width="100%" />
 </p>
 
 <h1 align="center">Adina Ibraimova</h1>
@@ -24,7 +24,7 @@ Here are some things I've worked on.
 
 ### 01 / Astana air quality estimator
 
-<!-- Add a real chart or app screenshot as assets/air-quality-preview.png when available. -->
+
 
 A machine learning experiment on how well daily weather data can explain air quality changes in Astana.
 
@@ -38,7 +38,7 @@ The experiment also explores missing data, feature selection, and why weather al
 
 ### 02 / Köz AI
 
-<!-- Add the approved project logo as assets/koz-ai-logo.png when available. -->
+<img src="logo.jpg" alt="Köz logo img" width="100%" />
 
 An EdTech project exploring the use of computer vision to understand classroom engagement.
 

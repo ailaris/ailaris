@@ -50,7 +50,7 @@ I work on the project as a co-founder and AI/CV developer. I'm interested in how
 
 A collaborative BrainTech project for the NYAS Junior Academy Innovation Challenge.
 
-Our team is exploring an EEG-based brain-computer interface concept in which motor-imagery signals could control a simple robotic-arm action. My role includes leading the team, coordinating research, and helping keep the technical scope realistic.
+Our team is exploring an EEG-based brain-computer interface concept in which motor-imagery signals could control a simple robotic-arm action. My role includes leading the team, analyzing the EEG data, and building the project website.
 
 *Research and concept development in progress.*
 
@@ -58,13 +58,13 @@ Our team is exploring an EEG-based brain-computer interface concept in which mot
 
 My robotics experience includes CAD design, robot building, driving, and engineering documentation with Team Hot Wheels.
 
-I started with CAD during the Into the Deep season and later took on more hands-on building and driving responsibilities. Competition work also taught me the importance of documentation and getting a robot ready under real deadlines.
+I started with CAD during the Into the Deep season and later took on more hands-on building and driving responsibilities. Competition work also taught me the importance of documentation and getting a robot ready under real deadlines. I later became team captain, leading the engineering team and outreach
 
 My teams have received Connect, Inspire, and Think award recognition at regional events.
 
 ### Outside my projects
 
-**ZeroHub** - I founded a student-led computer science community where people can explore programming, AI, design, cybersecurity, and other areas of technology.
+**ZeroHub** - I run a TikTok account for students that shares beginner machine learning and programming content.
 
 I also enjoy algorithmic problem-solving, graphic design, and 3D modeling + printing. I'm still figuring out which part of computer science I want to specialize in, so for now I'm building things and learning across several areas.
 
@@ -76,7 +76,7 @@ I also enjoy algorithmic problem-solving, graphic design, and 3D modeling + prin
 
 **Apps and tools:** Streamlit · Git · GitHub
 
-**Other:** 3D modeling (Blender, Onshape, Autodesk Fusion 360, Sharp3D) · Graphic design (Figma, Adobe Illustrator, Adope Photoshop)
+**Other:** 3D modeling (Blender, Onshape, Autodesk Fusion 360, Sharp3D) · Graphic design (Figma, Adobe Illustrator, Adobe Photoshop)
 
 I'm still developing my skills in these areas, especially machine learning and software engineering.
 

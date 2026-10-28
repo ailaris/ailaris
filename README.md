@@ -34,7 +34,20 @@ The experiment also explores missing data, feature selection, and why weather al
 
 [Explore the code and experiments →](https://github.com/ailaris/astana-air-quality)
 
-### 02 / Köz AI
+### 02 / comfortNU app
+
+<img src="comfortnu-dashboard.jpg" alt="comfortNU dashboard" width="200" />
+![comfortNU dashboard](comfortnu-dashboard.jpg)
+
+A full-stack dashboard built with my team during the Code Girls Summer 2026 web dev camp for its final hackathon. It shows how comfortable the atrium at Nazarbayev University is by comparing indoor temperature, brightness and noise with outdoor conditions.
+ - Frontend in React, TypeScript, Tailwind CSS and Recharts; backend in FastAPI (Python); deployed on Vercel.
+ - Daily minimum, maximum and average values, charts across several days, and a history view.
+ - Built within the camp’s time limit on saved sensor data from past months, not a live feed. Predictions and live updates are ideas for next steps.
+
+[Code →](https://github.com/ailaris/comfortNU-app)
+*The live demo is temporarily paused while I renew my hosting plan.*
+
+### 03 / Köz AI
 
 <img src="logo.jpg" alt="Köz AI logo" width="200" />
 
@@ -44,7 +57,7 @@ I work on the project as a co-founder and AI/CV developer. I'm interested in how
 
 *Project work in progress.*
 
-### 03 / SynaptiX - Mind-to-Move
+### 04 / SynaptiX - Mind-to-Move
 
 <img src="Neural Link to Robotic Hand.png" alt="Banner MTM" width="300" />
 
@@ -54,7 +67,7 @@ Our team is exploring an EEG-based brain-computer interface concept in which mot
 
 *Research and concept development in progress.*
 
-### 04 / FTC Robotics
+### 05 / FTC Robotics
 
 My robotics experience includes CAD design, robot building, driving, and engineering documentation with Team Hot Wheels.
 

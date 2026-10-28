@@ -36,8 +36,7 @@ The experiment also explores missing data, feature selection, and why weather al
 
 ### 02 / comfortNU app
 
-<img src="comfortnu-dashboard.jpg" alt="comfortNU dashboard" width="200" />
-![comfortNU dashboard](comfortnu-dashboard.jpg)
+<img src="comfortnu-dashboard.jpg" alt="comfortNU dashboard" width="400" />
 
 A full-stack dashboard built with my team during the Code Girls Summer 2026 web dev camp for its final hackathon. It shows how comfortable the atrium at Nazarbayev University is by comparing indoor temperature, brightness and noise with outdoor conditions.
  - Frontend in React, TypeScript, Tailwind CSS and Recharts; backend in FastAPI (Python); deployed on Vercel.
@@ -49,7 +48,7 @@ A full-stack dashboard built with my team during the Code Girls Summer 2026 web 
 
 ### 03 / Köz AI
 
-<img src="logo.jpg" alt="Köz AI logo" width="200" />
+<img src="logo.jpg" alt="Köz AI logo" width="300" />
 
 An EdTech project exploring the use of computer vision to understand classroom engagement.
 
@@ -59,7 +58,7 @@ I work on the project as a co-founder and AI/CV developer. I'm interested in how
 
 ### 04 / SynaptiX - Mind-to-Move
 
-<img src="Neural Link to Robotic Hand.png" alt="Banner MTM" width="300" />
+<img src="Neural Link to Robotic Hand.png" alt="Banner MTM" width="400" />
 
 A collaborative BrainTech project for the NYAS Junior Academy Innovation Challenge.
 

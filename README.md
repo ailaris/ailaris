@@ -64,7 +64,7 @@ A collaborative BrainTech project for the NYAS Junior Academy Innovation Challen
 
 Our team is exploring an EEG-based brain-computer interface concept in which motor-imagery signals could control a simple robotic-arm action. My role includes leading the team, analyzing the EEG data, and building the project website.
 
-*Research and concept development in progress.*
+[Explore the code and website →](https://github.com/ailaris/mind-to-move)
 
 ### 05 / FTC Robotics
 
